@@ -1,5 +1,5 @@
 // ben10-frontend/src/api/quizApi.js
-const BASE = import.meta.env.VITE_API_URL ?? 'http://localhost:5252'
+const BASE = import.meta.env.VITE_API_BASE ?? 'http://localhost:5252'
 
 export async function fetchQuestions() {
   const res = await fetch(`${BASE}/api/quiz/questions`)

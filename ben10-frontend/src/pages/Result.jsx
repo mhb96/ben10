@@ -20,7 +20,7 @@ export default function Result() {
           resultId: data.id,
           matchedCharacter: data.matchedCharacter,
           description: '',
-          imagePath: `/images/aliens/${data.matchedCharacter.toLowerCase().replace(/\s+/g, '')}.png`,
+          imagePath: `/images/aliens/${data.matchedCharacter.toLowerCase().replace(/\s+/g, '')}.jpg`,
           matchedTraits: []
         }))
         .catch(() => setError('Could not load result.'))
