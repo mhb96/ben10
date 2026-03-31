@@ -1,0 +1,16 @@
+# .NET build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Node / frontend
+node_modules/
+dist/
+
+# Environment
+.env
+.env.local
