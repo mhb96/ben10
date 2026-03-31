@@ -15,10 +15,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="Data\questions.json">
+    <Content Update="Data\questions.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Data\aliens.json">
+    <Content Update="Data\aliens.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
