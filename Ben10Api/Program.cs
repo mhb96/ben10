@@ -12,13 +12,14 @@ builder.Services.AddScoped<IMatchingService, MatchingService>();
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
-        policy.WithOrigins("http://localhost:5173")
+        policy.WithOrigins("http://localhost:5173", "https://localhost:5173")
               .AllowAnyHeader()
               .AllowAnyMethod());
 });
 
 var app = builder.Build();
 app.UseCors();
+app.UseAuthorization();
 app.MapControllers();
 app.Run();
 
