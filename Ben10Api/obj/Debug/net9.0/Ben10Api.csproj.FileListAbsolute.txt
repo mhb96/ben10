@@ -1,0 +1,7 @@
+C:\Users\Mohammad Butt\Desktop\AI First Tech\Ben10Api\obj\Debug\net9.0\Ben10Api.csproj.AssemblyReference.cache
+C:\Users\Mohammad Butt\Desktop\AI First Tech\Ben10Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Mohammad Butt\Desktop\AI First Tech\Ben10Api\obj\Debug\net9.0\Ben10Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad Butt\Desktop\AI First Tech\Ben10Api\obj\Debug\net9.0\Ben10Api.AssemblyInfoInputs.cache
+C:\Users\Mohammad Butt\Desktop\AI First Tech\Ben10Api\obj\Debug\net9.0\Ben10Api.AssemblyInfo.cs
+C:\Users\Mohammad Butt\Desktop\AI First Tech\Ben10Api\obj\Debug\net9.0\Ben10Api.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Butt\Desktop\AI First Tech\Ben10Api\obj\Debug\net9.0\Ben10Api.MvcApplicationPartsAssemblyInfo.cache

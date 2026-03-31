@@ -1,0 +1,6 @@
+@Ben10Api_HostAddress = http://localhost:5252
+
+GET {{Ben10Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
