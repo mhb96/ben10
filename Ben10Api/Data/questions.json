@@ -1,0 +1,102 @@
+[
+  {
+    "id": "q1",
+    "text": "When faced with a problem, you...",
+    "answers": [
+      { "text": "Charge straight in without thinking", "traits": { "impulsive": 2, "brave": 1 } },
+      { "text": "Analyse it carefully first", "traits": { "intelligent": 2, "strategic": 1 } },
+      { "text": "Find a creative workaround", "traits": { "creative": 2, "adaptable": 1 } },
+      { "text": "Get others involved", "traits": { "empathetic": 2, "teamwork": 1 } }
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "Your friends would describe you as...",
+    "answers": [
+      { "text": "Hot-headed but loyal", "traits": { "hot-headed": 2, "loyal": 2 } },
+      { "text": "Quiet but observant", "traits": { "intelligent": 2, "strategic": 1 } },
+      { "text": "Wild and energetic", "traits": { "energetic": 2, "instinctive": 1 } },
+      { "text": "Tough and dependable", "traits": { "strong": 2, "brave": 1 } }
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "In a group project, you tend to...",
+    "answers": [
+      { "text": "Take charge and lead", "traits": { "brave": 2, "impulsive": 1 } },
+      { "text": "Plan and organise everything", "traits": { "strategic": 2, "intelligent": 1 } },
+      { "text": "Do the heavy lifting", "traits": { "strong": 2, "loyal": 1 } },
+      { "text": "Keep the mood light and creative", "traits": { "creative": 2, "adaptable": 1 } }
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "Your biggest strength is your...",
+    "answers": [
+      { "text": "Raw power", "traits": { "strong": 3 } },
+      { "text": "Speed and quick thinking", "traits": { "energetic": 2, "strategic": 1 } },
+      { "text": "Intelligence and logic", "traits": { "intelligent": 3 } },
+      { "text": "Adaptability", "traits": { "adaptable": 2, "creative": 1 } }
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "How do you handle fear?",
+    "answers": [
+      { "text": "Push through it — fear means nothing", "traits": { "brave": 3 } },
+      { "text": "Figure out what's causing it", "traits": { "intelligent": 2, "strategic": 1 } },
+      { "text": "Use instinct to survive", "traits": { "instinctive": 2, "adaptable": 1 } },
+      { "text": "It gets under your skin — you're sensitive to it", "traits": { "mysterious": 2, "impulsive": 1 } }
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "Which environment feels most natural to you?",
+    "answers": [
+      { "text": "Anywhere hot — you thrive in heat", "traits": { "hot-headed": 2, "passionate": 1 } },
+      { "text": "Water — calm, deep, flowing", "traits": { "adaptable": 2, "instinctive": 1 } },
+      { "text": "Open fields — room to run", "traits": { "energetic": 2, "instinctive": 1 } },
+      { "text": "Labs or libraries — anywhere with information", "traits": { "intelligent": 3 } }
+    ]
+  },
+  {
+    "id": "q7",
+    "text": "When technology breaks, you...",
+    "answers": [
+      { "text": "Merge with it and fix it yourself", "traits": { "adaptable": 2, "intelligent": 1 } },
+      { "text": "Smash it out of frustration", "traits": { "impulsive": 2, "hot-headed": 1 } },
+      { "text": "Methodically troubleshoot", "traits": { "strategic": 2, "intelligent": 1 } },
+      { "text": "Ignore it and rely on instinct", "traits": { "instinctive": 2 } }
+    ]
+  },
+  {
+    "id": "q8",
+    "text": "Which word resonates with you most?",
+    "answers": [
+      { "text": "Power", "traits": { "strong": 2, "brave": 1 } },
+      { "text": "Stealth", "traits": { "mysterious": 3 } },
+      { "text": "Speed", "traits": { "energetic": 3 } },
+      { "text": "Wisdom", "traits": { "intelligent": 3 } }
+    ]
+  },
+  {
+    "id": "q9",
+    "text": "How do you recharge?",
+    "answers": [
+      { "text": "Physical activity — movement is life", "traits": { "energetic": 2, "instinctive": 1 } },
+      { "text": "Reading or learning something new", "traits": { "intelligent": 2, "strategic": 1 } },
+      { "text": "Being around people you trust", "traits": { "empathetic": 2, "loyal": 1 } },
+      { "text": "Solitude — you prefer your own company", "traits": { "mysterious": 2, "strategic": 1 } }
+    ]
+  },
+  {
+    "id": "q10",
+    "text": "Your ideal superpower is...",
+    "answers": [
+      { "text": "Incredible strength", "traits": { "strong": 3 } },
+      { "text": "Flight and fire", "traits": { "brave": 2, "passionate": 1 } },
+      { "text": "Phasing through walls invisibly", "traits": { "mysterious": 3 } },
+      { "text": "Super speed", "traits": { "energetic": 3 } }
+    ]
+  }
+]
