@@ -147,6 +147,22 @@ Heatblast, Wildmutt, Diamondhead, XLR8, Greymatter, Four Arms, Stinkfly, Ripjaws
 
 ---
 
+## Assets
+
+### Character Images
+One image per alien is required for the result screen (10 total). Quiz questions are text-only and do not need character images.
+
+**Source:** Official character art sourced from the [Ben 10 Wiki](https://ben10.fandom.com) or fan-site mirrors.
+
+**License note:** This is a personal/fan/portfolio project with no commercial intent. Use of official Cartoon Network character art falls within broadly accepted fan-project norms. Images are not to be redistributed or used commercially.
+
+**Storage:** Images stored locally in the React project under `public/images/aliens/` (e.g., `heatblast.png`, `xlr8.png`). Referenced by filename in the alien profile JSON.
+
+**Required images (original series 10):**
+`heatblast.png`, `wildmutt.png`, `diamondhead.png`, `xlr8.png`, `greymatter.png`, `fourarms.png`, `stinkfly.png`, `ripjaws.png`, `upgrade.png`, `ghostfreak.png`
+
+---
+
 ## Out of Scope (v1)
 
 - User accounts / authentication
