@@ -1,0 +1,41 @@
+/* ben10-frontend/src/styles/index.css */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #0a0a1a;
+  color: #f0f0f0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.page {
+  width: 100%;
+  max-width: 640px;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+h1 { font-size: 2rem; text-align: center; color: #00e5ff; }
+h2 { font-size: 1.4rem; text-align: center; }
+
+.btn {
+  background: #00e5ff;
+  color: #0a0a1a;
+  border: none;
+  border-radius: 8px;
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.btn:hover { opacity: 0.85; }
+.btn.secondary { background: transparent; border: 2px solid #00e5ff; color: #00e5ff; }
+
+.error-text { color: #ff5252; text-align: center; }
