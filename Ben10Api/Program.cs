@@ -23,5 +23,5 @@ app.UseAuthorization();
 app.MapControllers();
 app.Run();
 
-// NOTE: AppDbContext (Task 2) and IMatchingService/MatchingService (Task 5) are not yet defined.
-// This file will not compile until those tasks are complete — this is expected.
+// Required for WebApplicationFactory in tests
+public partial class Program { }
